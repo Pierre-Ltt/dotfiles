@@ -1,0 +1,10 @@
+@theme "catpuccin"
+
+configuration {
+    modi: "run,drun";
+    show-icons: true;
+    icon-theme: "Orchis dark";
+    display-drun: "🔎";
+    display-run: "";
+    font: "FiraCode NF 25";
+}

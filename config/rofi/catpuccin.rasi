@@ -1,0 +1,51 @@
+* {
+    background-color: rgba(26,24,38,0);
+    text-color: #D9E0EE;
+    transparency: "real";
+}
+
+window {
+    margin: 50px;
+    fullscreen: true;
+    background-color: rgba(0,0,0,0);
+}
+
+inputbar {
+    margin: 75px;
+}
+
+prompt {
+    padding: 30px;
+}
+
+entry {
+    margin: 10px;
+    padding: 20px 40px;
+    border-radius: 50px;
+    background-color: rgba(108,110,126,0.4);
+}
+
+listview {
+    columns: 3;
+    spacing: 50px;
+    margin: 50px;
+}
+
+element {
+    border-radius: 50px;
+    padding: 20px;
+}
+
+element-text {
+    vertical-align: 0.5;
+    horizontal-align: 0.5;
+    margin: 20px;
+}
+
+element-icon {
+    size: 100px;
+}
+
+element selected.normal {
+    background-color: rgba(110,108,126,0.5);
+}
